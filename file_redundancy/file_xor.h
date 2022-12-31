@@ -7,7 +7,7 @@
 
 #ifndef file_xor_h
 #define file_xor_h
-#define NAME 50
+#define NAME 200
 
 #include <stdio.h>
 #include <stdlib.h>
